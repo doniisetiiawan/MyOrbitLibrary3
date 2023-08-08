@@ -1,0 +1,6 @@
+framework module MyOrbitLibrary3 {
+  umbrella header "MyOrbitLibrary3-umbrella.h"
+
+  export *
+  module * { export * }
+}
